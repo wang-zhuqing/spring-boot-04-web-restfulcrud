@@ -1,0 +1,14 @@
+server:
+  port: 8080
+person:
+  lastName: zhangsan${random.value}
+  age: 18
+  boss: true
+  birth: 2019/06/18
+  maps: {k1: 1,k2: 2}
+  lists:
+    - lisi
+    - wangwu
+  dog:
+    name: ${person.lastName}的_小狗
+    age: 2

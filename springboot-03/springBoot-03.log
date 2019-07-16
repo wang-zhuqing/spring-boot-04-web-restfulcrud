@@ -1,0 +1,85 @@
+2019-06-26 10:10:29.553  INFO 11736 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-26 10:10:29.885  WARN 11736 --- [main] c.w.s.Springboot03ApplicationTests       : 这是war日志。。
+2019-06-26 10:10:29.885 ERROR 11736 --- [main] c.w.s.Springboot03ApplicationTests       : 这是error日志。。
+2019-06-26 10:10:29.889  INFO 11736 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019ï¿½06ï¿½26  ===  [main]  ===  %PARSER_ERROR[ï]¿½5level  ===  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  ====  Initializing ExecutorService 'applicationTaskExecutor'
+2019ï¿½06ï¿½26  ===  [main]  ===  %PARSER_ERROR[ï]¿½5level  ===  com.wzq.springboot03.Springboot03ApplicationTests  ====  这是war日志。。
+2019ï¿½06ï¿½26  ===  [main]  ===  %PARSER_ERROR[ï]¿½5level  ===  com.wzq.springboot03.Springboot03ApplicationTests  ====  这是error日志。。
+2019ï¿½06ï¿½26  ===  [Thread-2]  ===  %PARSER_ERROR[ï]¿½5level  ===  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  ====  Shutting down ExecutorService 'applicationTaskExecutor'
+2019ï¿½06ï¿½26===[main]===%PARSER_ERROR[ï]¿½5level===o.s.scheduling.concurrent.ThreadPoolTaskExecutor====Initializing ExecutorService 'applicationTaskExecutor'
+2019ï¿½06ï¿½26===[main]===%PARSER_ERROR[ï]¿½5level===com.wzq.springboot03.Springboot03ApplicationTests====这是war日志。。
+2019ï¿½06ï¿½26===[main]===%PARSER_ERROR[ï]¿½5level===com.wzq.springboot03.Springboot03ApplicationTests====这是error日志。。
+2019ï¿½06ï¿½26===[Thread-2]===%PARSER_ERROR[ï]¿½5level===o.s.scheduling.concurrent.ThreadPoolTaskExecutor====Shutting down ExecutorService 'applicationTaskExecutor'
+2019-06-26 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-26 === [main] === WARN  === com.wzq.springboot03.Springboot03ApplicationTests === 这是war日志。。
+2019-06-26 === [main] === ERROR === com.wzq.springboot03.Springboot03ApplicationTests === 这是error日志。。
+2019-06-26 === [Thread-2] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Shutting down ExecutorService 'applicationTaskExecutor'
+2019-06-26 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === Starting Springboot03ApplicationTests on Q6X76XG0J4VTNGT with PID 7208 (started by Administrator in D:\IdeaProjects\springboot-03)
+2019-06-26 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === No active profile set, falling back to default profiles: default
+2019-06-26 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-26 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === Started Springboot03ApplicationTests in 1.39 seconds (JVM running for 1.946)
+2019-06-26 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === 这是info日志。。
+2019-06-26 === [main] === WARN  === com.wzq.springboot03.Springboot03ApplicationTests === 这是war日志。。
+2019-06-26 === [main] === ERROR === com.wzq.springboot03.Springboot03ApplicationTests === 这是error日志。。
+2019-06-26 === [Thread-2] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Shutting down ExecutorService 'applicationTaskExecutor'
+2019-06-26 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === Starting Springboot03ApplicationTests on Q6X76XG0J4VTNGT with PID 500 (started by Administrator in D:\IdeaProjects\springboot-03)
+2019-06-26 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === The following profiles are active: dev
+2019-06-26 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-26 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === Started Springboot03ApplicationTests in 1.341 seconds (JVM running for 1.842)
+2019-06-26 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === 这是info日志。。
+2019-06-26 === [main] === WARN  === com.wzq.springboot03.Springboot03ApplicationTests === 这是war日志。。
+2019-06-26 === [main] === ERROR === com.wzq.springboot03.Springboot03ApplicationTests === 这是error日志。。
+2019-06-26 === [Thread-2] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Shutting down ExecutorService 'applicationTaskExecutor'
+2019-06-26 12:44:22.642  INFO 4244 --- [main] c.w.s.Springboot03ApplicationTests       : Starting Springboot03ApplicationTests on Q6X76XG0J4VTNGT with PID 4244 (started by Administrator in D:\IdeaProjects\springboot-03)
+2019-06-26 12:44:22.643  INFO 4244 --- [main] c.w.s.Springboot03ApplicationTests       : The following profiles are active: dev
+2019-06-26 12:44:23.682  INFO 4244 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-26 12:44:23.865  INFO 4244 --- [main] c.w.s.Springboot03ApplicationTests       : Started Springboot03ApplicationTests in 1.48 seconds (JVM running for 2.003)
+2019-06-26 12:44:23.980  INFO 4244 --- [main] c.w.s.Springboot03ApplicationTests       : 这是info日志。。
+2019-06-26 12:44:23.980  WARN 4244 --- [main] c.w.s.Springboot03ApplicationTests       : 这是war日志。。
+2019-06-26 12:44:23.980 ERROR 4244 --- [main] c.w.s.Springboot03ApplicationTests       : 这是error日志。。
+2019-06-26 12:44:23.984  INFO 4244 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-06-26 12:44:51.313  INFO 6156 --- [main] c.w.s.Springboot03ApplicationTests       : Starting Springboot03ApplicationTests on Q6X76XG0J4VTNGT with PID 6156 (started by Administrator in D:\IdeaProjects\springboot-03)
+2019-06-26 12:44:51.314  INFO 6156 --- [main] c.w.s.Springboot03ApplicationTests       : No active profile set, falling back to default profiles: default
+2019-06-26 12:44:52.274  INFO 6156 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-26 12:44:52.454  INFO 6156 --- [main] c.w.s.Springboot03ApplicationTests       : Started Springboot03ApplicationTests in 1.41 seconds (JVM running for 1.911)
+2019-06-26 12:44:52.572  INFO 6156 --- [main] c.w.s.Springboot03ApplicationTests       : 这是info日志。。
+2019-06-26 12:44:52.573  WARN 6156 --- [main] c.w.s.Springboot03ApplicationTests       : 这是war日志。。
+2019-06-26 12:44:52.573 ERROR 6156 --- [main] c.w.s.Springboot03ApplicationTests       : 这是error日志。。
+2019-06-26 12:44:52.577  INFO 6156 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-06-26 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === Starting Springboot03ApplicationTests on Q6X76XG0J4VTNGT with PID 7596 (started by Administrator in D:\IdeaProjects\springboot-03)
+2019-06-26 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === No active profile set, falling back to default profiles: default
+2019-06-26 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-26 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === Started Springboot03ApplicationTests in 1.569 seconds (JVM running for 2.108)
+2019-06-26 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === 这是info日志。。
+2019-06-26 === [main] === WARN  === com.wzq.springboot03.Springboot03ApplicationTests === 这是war日志。。
+2019-06-26 === [main] === ERROR === com.wzq.springboot03.Springboot03ApplicationTests === 这是error日志。。
+2019-06-26 === [Thread-2] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Shutting down ExecutorService 'applicationTaskExecutor'
+2019-06-26 14:13:06 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === Starting Springboot03ApplicationTests on Q6X76XG0J4VTNGT with PID 4444 (started by Administrator in D:\IdeaProjects\springboot-03)
+2019-06-26 14:13:06 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === No active profile set, falling back to default profiles: default
+2019-06-26 14:13:07 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-26 14:13:07 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === Started Springboot03ApplicationTests in 1.371 seconds (JVM running for 1.887)
+2019-06-26 14:13:08 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === 这是info日志。。
+2019-06-26 14:13:08 === [main] === WARN  === com.wzq.springboot03.Springboot03ApplicationTests === 这是war日志。。
+2019-06-26 14:13:08 === [main] === ERROR === com.wzq.springboot03.Springboot03ApplicationTests === 这是error日志。。
+2019-06-26 14:13:08 === [Thread-2] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Shutting down ExecutorService 'applicationTaskExecutor'
+2019-06-26 14:26:50 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === Starting Springboot03ApplicationTests on Q6X76XG0J4VTNGT with PID 6012 (started by Administrator in D:\IdeaProjects\springboot-03)
+2019-06-26 14:26:50 === [main] === DEBUG === com.wzq.springboot03.Springboot03ApplicationTests === Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-06-26 14:26:50 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === No active profile set, falling back to default profiles: default
+2019-06-26 14:26:51 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-26 14:26:51 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === Started Springboot03ApplicationTests in 1.46 seconds (JVM running for 1.963)
+2019-06-26 14:26:51 === [main] === DEBUG === com.wzq.springboot03.Springboot03ApplicationTests === 这是debug日志。。
+2019-06-26 14:26:51 === [main] === INFO  === com.wzq.springboot03.Springboot03ApplicationTests === 这是info日志。。
+2019-06-26 14:26:51 === [main] === WARN  === com.wzq.springboot03.Springboot03ApplicationTests === 这是war日志。。
+2019-06-26 14:26:51 === [main] === ERROR === com.wzq.springboot03.Springboot03ApplicationTests === 这是error日志。。
+2019-06-26 14:26:51 === [Thread-2] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Shutting down ExecutorService 'applicationTaskExecutor'
+2019-06-26 14:30:17 === [main] === INFO  === com.wzq.Springboot03Application === Starting Springboot03Application on Q6X76XG0J4VTNGT with PID 5392 (D:\IdeaProjects\springboot-03\target\classes started by Administrator in D:\IdeaProjects\springboot-03)
+2019-06-26 14:30:17 === [main] === DEBUG === com.wzq.Springboot03Application === Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-06-26 14:30:17 === [main] === INFO  === com.wzq.Springboot03Application === The following profiles are active: dev
+2019-06-26 14:30:18 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === Tomcat initialized with port(s): 8080 (http)
+2019-06-26 14:30:18 === [main] === INFO  === org.apache.catalina.core.StandardService === Starting service [Tomcat]
+2019-06-26 14:30:18 === [main] === INFO  === org.apache.catalina.core.StandardEngine === Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-06-26 14:30:18 === [main] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === Initializing Spring embedded WebApplicationContext
+2019-06-26 14:30:18 === [main] === INFO  === org.springframework.web.context.ContextLoader === Root WebApplicationContext: initialization completed in 565 ms
+2019-06-26 14:30:18 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor === Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-26 14:30:18 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === Tomcat started on port(s): 8080 (http) with context path ''
+2019-06-26 14:30:18 === [main] === INFO  === com.wzq.Springboot03Application === Started Springboot03Application in 1.015 seconds (JVM running for 1.496)
